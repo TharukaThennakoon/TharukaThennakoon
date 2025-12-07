@@ -87,7 +87,7 @@ I'm an undergraduate dedicated to building innovative solutions and learning cut
 
 ---
 
-## 📊 **GitHub Stats**
+<!-- ## 📊 **GitHub Stats**
 
 <div align="center">
 
@@ -96,7 +96,7 @@ I'm an undergraduate dedicated to building innovative solutions and learning cut
 
 </div>
 
----
+--- -->
 
 ## 🔥 **GitHub Streak**
 
@@ -114,7 +114,7 @@ I'm an undergraduate dedicated to building innovative solutions and learning cut
 
 </div>
 
----
+<!-- ---
 
 ## 🧊 **3D Contribution Calendar**
 
@@ -122,7 +122,7 @@ I'm an undergraduate dedicated to building innovative solutions and learning cut
 
 ![3D Calendar](https://raw.githubusercontent.com/TharukaThennakoon/TharukaThennakoon/output/profile-3d-contrib/profile-night-view.svg)
 
-</div>
+</div> -->
 
 ---
 
